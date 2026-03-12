@@ -1,5 +1,4 @@
 jobs:
-
   job1:
     runs-on: ubuntu-latest
     outputs:
